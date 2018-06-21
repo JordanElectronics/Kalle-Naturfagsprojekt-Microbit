@@ -1,0 +1,3 @@
+[submodule "kicad-microbit-edge-connector"]
+	path = kicad-microbit-edge-connector
+	url = https://github.com/JordanElectronics/kicad-microbit-edge-connector.git
